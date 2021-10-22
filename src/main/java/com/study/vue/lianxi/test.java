@@ -16,6 +16,6 @@ public class test {
     @GetMapping("/2")
     private String setV2(){
 
-        return "nam";
+        return "name1";
     }
 }
