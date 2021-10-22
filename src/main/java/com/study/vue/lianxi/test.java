@@ -15,6 +15,7 @@ public class test {
     }
     @GetMapping("/2")
     private String setV2(){
+        System.out.println("111");
         System.out.println("222");
         return "name1";
     }
