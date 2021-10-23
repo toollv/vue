@@ -17,6 +17,7 @@ public class test {
     private String setV2(){
         System.out.println("111");
         System.out.println("222");
+        System.out.println("333");
         return "name1";
     }
 }
